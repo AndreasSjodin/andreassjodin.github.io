@@ -71,7 +71,7 @@ function App() {
             Ready to unlock your organization's full potential? Let's start a conversation.
           </p>
           <p>
-            <a href="mailto:contact@sjodinsoftware.se" className="contact-link">contact@sjodinsoftware.se</a>
+            <a href="mailto:andreas@sjodinsoftware.se" className="contact-link">andreas@sjodinsoftware.se</a>
           </p>
         </section>
       </main>
